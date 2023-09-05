@@ -1,0 +1,23 @@
+.DS_Store
+
+.idea/
+
+etc/config.yaml
+robotChat
+robotChat.exe
+data
+logs/
+
+
+# config file
+etc/powerx.yaml
+
+# web
+web/dist/
+web/nginx/ssl/
+
+# Docker Compose
+docker-compose.yaml
+
+nohup.out
+resource/
